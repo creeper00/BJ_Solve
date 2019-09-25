@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1568088856 source:c:\users\creep\ca-pa1\pa1.c
+	<stdio.h>
+	"pa1.h"
+
+1568088856 c:\users\creep\ca-pa1\pa1.h
+
+1568433045 source:c:\users\creep\ca-pa1\pa1-test.c
+	<stdio.h>
+	<stdlib.h>
+	"pa1.h"
+

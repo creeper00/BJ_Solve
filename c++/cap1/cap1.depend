@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568981883 source:c:\users\creep\onedrive\πŸ≈¡ »≠∏È\cse\c++\cap1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pa1.h"
+	<time.h>
+
+1568088856 c:\users\creep\onedrive\πŸ≈¡ »≠∏È\cse\c++\cap1\pa1.h
+
+1568982159 source:c:\users\creep\onedrive\πŸ≈¡ »≠∏È\cse\c++\cap1\pa1.c
+	<stdio.h>
+	"pa1.h"
+

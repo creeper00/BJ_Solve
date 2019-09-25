@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552375477 source:c:\users\creep\onedrive\πŸ≈¡ »≠∏È\c++\starter\hello.cpp
+	<iostream>
+
+1552375706 source:c:\users\creep\onedrive\πŸ≈¡ »≠∏È\c++\starter\main.cpp
+	"hello.h"
+
+1552375595 c:\users\creep\onedrive\πŸ≈¡ »≠∏È\c++\starter\hello.h
+
