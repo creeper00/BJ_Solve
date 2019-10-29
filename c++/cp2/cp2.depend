@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570606285 source:c:\users\creep\bj_solve\c++\cp2\pa2-test.c
+	<stdio.h>
+	"pa2.h"
+
+1570028203 c:\users\creep\bj_solve\c++\cp2\pa2.h
+
+1570674802 source:c:\users\creep\bj_solve\c++\cp2\pa2.c
+	<stdio.h>
+	"pa2.h"
+
