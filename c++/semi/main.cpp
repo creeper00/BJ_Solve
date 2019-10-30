@@ -1,18 +1,13 @@
 #include <stdio.h>
 
-typedef union {
-  float f;
-  struct {
-    unsigned int mantisa : 23;
-    unsigned int exponent : 8;
-    unsigned int sign : 1;
-  } parts;
-} float_cast;
-
-int main(void) {
-    float j=-(0.0/0.0);
-  float_cast d1 = { .f = j };
-  printf("sign = %x\n", d1.parts.sign);
-  printf("exponent = %x\n", d1.parts.exponent);
-  printf("mantisa = %x\n", d1.parts.mantisa);
+int main(){
+    while(1){
+        int a,b,c;
+        scanf("%d %d %d", &a,&b,&c);
+        if(a==0 && b==0 && c==0) break;
+        else {
+            if( (a*a+b*b)==c*c || (a*a+c*c)==b*b || (b*b+c*c)==a*a ) printf("right\n");
+            else printf("wrong\n");
+        }
+    }
 }
