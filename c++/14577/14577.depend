@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573634256 source:c:\users\creep\bj_solve\c++\14577\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
