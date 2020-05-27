@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589952670 source:c:\users\creep\bj_solve\c++\sp\main.cpp
+	<iostream>
+	<queue>
+	<pthread.h>
+
